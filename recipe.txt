@@ -2,3 +2,7 @@ chivken
 beans
 roti
 paneer
+
+
+spinach
+pulses
